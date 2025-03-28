@@ -24,7 +24,7 @@ project_name;github_url;folder_name;port
 
 1. **Make scripts executable**:  
    ```bash
-   chmod +x update_projects.sh update_container.sh
+   chmod +x update_projects.sh script/update_container.sh
    ```
    
 2. **Copy the `script` folder to the root folder of the desired projects**
