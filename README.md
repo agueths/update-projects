@@ -27,7 +27,7 @@ project_name;github_url;folder_name;port
    chmod +x update_projects.sh update_container.sh
    ```
    
-2. **Copy the script folder to the root folder of the desired projects**
+2. **Copy the `script` folder to the root folder of the desired projects**
 
 3. **Run the project update script**:  
    ```bash
