@@ -9,7 +9,7 @@ BASE_DIR="$HOME/projects"
 # Criar o diretório base se não existir
 mkdir -p "$BASE_DIR"
 
-while IFS=',' read -r name project_git folder port
+while IFS=';' read -r name project_git folder port
 do
     # Ignorar linhas vazias ou comentários
     [[ -z "$name" || "$name" == "#"* ]] && continue

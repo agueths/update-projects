@@ -1,3 +1,3 @@
-#nome_do_projeto,github_url,nome_da_pasta,porta
-meu_app,https://github.com/usuario/meu_app.git,meu_app,3000
-outro_projeto,https://github.com/usuario/outro_projeto.git,outro_projeto,4000
+#;project_name;github_url;folder_name;port
+my_app;https://github.com/user/my_app.git;my_app;3000
+another_project;https://github.com/user/another_project.git;another_project;4000
