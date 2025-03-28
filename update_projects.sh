@@ -37,7 +37,7 @@ do
     fi
 
     echo "$name updated successfully!"
-processed
+
 done < "$FILE"
 
 echo "All projects have been updated!"
