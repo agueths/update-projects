@@ -1,3 +1,2 @@
-#;project_name;github_url;folder_name;port
-my_app;https://github.com/user/my_app.git;my_app;3000
-another_project;https://github.com/user/another_project.git;another_project;4000
+#;project_name;folder_name;github_url;access_port;db_host
+Deploy Test;deploy_test;git@github.com:agueths/deploy-dev-test.git;3002;localhost
